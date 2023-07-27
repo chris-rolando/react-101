@@ -9,23 +9,3 @@ h1 {
   padding: 2.5%;
   text-align: center;
 }
-
-.review-box { 
-  color: #feffff;
-  background-color: #353941;
-  min-height: 30vh;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  text-align: center;
-  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
-  border-radius: 25px;
-}
-
-.App-logo {
-  min-height: 10px;
-  min-width: 20px;
-  width: 9.5em;
-  height: 9.5em;
-  padding: 1.5%;
-}

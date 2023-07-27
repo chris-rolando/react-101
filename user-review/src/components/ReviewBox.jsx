@@ -1,5 +1,5 @@
 import photo from '../assets/account.png';
-import '../App.css';
+import '../styles/ReviewBox.css';
 
 export const Review = () => {
   
