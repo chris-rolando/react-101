@@ -1,4 +1,4 @@
-const reviews = [
+const userReviews = [
 {
     name: "Ana",
     review: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu efficitur ipsum. Pellentesque sed diam id orci luctus laoreet. Sed auctor ipsum et augue pretium molestie. Aliquam ante magna, euismod in lectus sit amet, vestibulum lacinia felis. Aenean euismod eros nisl, vel tempus sapien convallis ut. Quisque maximus egestas volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc id enim sed turpis rutrum viverra. Donec ut mollis nunc, cursus varius mi. In hendrerit semper mi ut malesuada. Integer et enim augue."

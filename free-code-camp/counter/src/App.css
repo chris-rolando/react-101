@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background-color: #1d1d32;
+  color: #feffff;
+}
+
+.app {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: center;
+  padding-top: 15px;
+}
+
+.Logo-content {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  width: 100%;
+}
